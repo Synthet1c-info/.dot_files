@@ -1,11 +1,13 @@
-   _____             _   _          _  __
-  / ____|           | | | |        | |/_ |
- | (___  _   _ _ __ | |_| |__   ___| |_| | ___
-  \___ \| | | | '_ \| __| '_ \ / _ \ __| |/ __|
-  ____) | |_| | | | | |_| | | |  __/ |_| | (__
- |_____/ \__, |_| |_|\__|_| |_|\___|\__|_|\___|
-          __/ |
-         |___/
-------------------------------------------------------------
+## My .DotFile setup for OSX platform
 
 ###### A convenient place to get to my .dot config files when needed.
+
+This will include 
+----
+
+  * Aliases.zsh
+  * Commands.zsh
+  * AutoCompleting.zsh
+  * Environment.zsh
+  * Functions.zsh
+
