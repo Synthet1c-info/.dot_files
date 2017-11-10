@@ -15,3 +15,4 @@ This will include
 ##### Updated
 ----
   * Nov_2017
+  * Upload of zshrc
